@@ -11,7 +11,7 @@ class SettingPage extends StatelessWidget {
         elevation: 0,
         centerTitle: true,
         title: Text(
-          'Cart',
+          'Setting',
           style: TextStyle(
             color: kTextGrayColor,
             fontWeight: FontWeight.bold,
